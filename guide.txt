@@ -1,9 +1,0 @@
-So, how did I make this?
-
-You create a virtual environment (venv) as follows:
-# python3 -m venv .venv
-
-Install three things:
-- uvicorn (for the webserver)
-- fastapi (to program the integral API itself)
-- openai (to use OpenAI's API)
