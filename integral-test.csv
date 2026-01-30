@@ -1,0 +1,4 @@
+integral
+"\int e^x \, dx"
+"\int cos^2(x) \, dx"
+"\int \frac{1+x^2}{1-x} \, dx"
